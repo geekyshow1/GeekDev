@@ -24,11 +24,11 @@
 }
 
 /* Header Image Sub-Title */
-.font-italic {
+.st {
   font-size: 24px;
 }
 
-/* Change Link Color */
+/* Change Footer Social Icon Color */
 a {
   color:  #DC3545;
 }
